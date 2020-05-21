@@ -1,7 +1,7 @@
 ---
-title: Apperance Settings
+title: Appearance Settings
 sidebar: cyclr_sidebar
-permalink: settings-apperance
+permalink: settings-appearance
 tags: [settings]
 ---
 
